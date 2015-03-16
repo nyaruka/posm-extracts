@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "R1711291", "name": "Guernesey", "name_en": "Guernsey", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.5099028, 49.4836184 ], [ -2.5359094, 49.4661305 ], [ -2.5241732, 49.4550681 ], [ -2.5356422, 49.452295 ], [ -2.5315794, 49.4190991 ], [ -2.6751703, 49.4326642 ], [ -2.6511187, 49.4409588 ], [ -2.6574624, 49.4587071 ], [ -2.6102749, 49.4654433 ], [ -2.5709993, 49.496746 ], [ -2.5430641, 49.4916052 ], [ -2.5428036, 49.5077697 ], [ -2.5048441, 49.5057467 ], [ -2.5099028, 49.4836184 ] ] ], [ [ [ -2.4571201, 49.478442 ], [ -2.4579404, 49.4797018 ], [ -2.4449472, 49.4646077 ], [ -2.4571201, 49.478442 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "R1973199", "name": "Sark", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3692369, 49.4236926 ], [ -2.3676864, 49.4491411 ], [ -2.3426119, 49.4327096 ], [ -2.382869, 49.4142278 ], [ -2.3692369, 49.4236926 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "R1973200", "name": "Alderney", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.177782, 49.7304379 ], [ -2.159079, 49.7275291 ], [ -2.2115606, 49.7018149 ], [ -2.2344302, 49.7094743 ], [ -2.177782, 49.7304379 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "W185845797", "name": "Sark", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": null },
+{ "type": "Feature", "properties": { "osm_id": "W185845973", "name": "Sark", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "osm_id": "W196971303", "name": "Caquorobert Islet", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": null },
+{ "type": "Feature", "properties": { "osm_id": "W197159891", "name": "Mouliere", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": null },
+{ "type": "Feature", "properties": { "osm_id": "W197167418", "name": "Selle Rocque", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": null },
+{ "type": "Feature", "properties": { "osm_id": "W2956899", "name": "Crevichon", "name_en": "None", "is_in_country": "R270009", "is_in_state": "None" }, "geometry": null }
+]
+}

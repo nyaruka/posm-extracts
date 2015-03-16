@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "R3935814", "name": "غزة", "name_en": "Gaza City", "is_in_country": "R1703814", "is_in_state": "None" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.4672691, 31.464713 ], [ 34.4650633, 31.4614897 ], [ 34.4194866, 31.4823945 ], [ 34.413713, 31.5032709 ], [ 34.4538521, 31.5469382 ], [ 34.518262, 31.5013513 ], [ 34.4672691, 31.464713 ] ] ] } }
+]
+}

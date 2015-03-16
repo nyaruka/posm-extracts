@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "R3160519", "name": "Municipio La Canela", "name_en": "None", "is_in_country": "R307828", "is_in_state": "R3412920" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.905052, 19.503265 ], [ -70.892761, 19.53824 ], [ -70.7966536, 19.5151529 ], [ -70.7777711, 19.4926593 ], [ -70.7951089, 19.4559214 ], [ -70.8291421, 19.4375458 ], [ -70.8816358, 19.4650466 ], [ -70.904411, 19.476335 ], [ -70.905052, 19.503265 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "R3422567", "name": "Santo Domingo Oeste", "name_en": "None", "is_in_country": "R307828", "is_in_state": "R3422565" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.071734, 18.5088411 ], [ -69.9988192, 18.5027733 ], [ -69.9677944, 18.4765621 ], [ -69.9996345, 18.4222558 ], [ -70.0177465, 18.4128338 ], [ -70.0018893, 18.4472373 ], [ -70.0130258, 18.4759152 ], [ -70.0275956, 18.4613225 ], [ -70.0484095, 18.4770956 ], [ -70.0645457, 18.4629507 ], [ -70.071734, 18.5088411 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "R3422566", "name": "Santo Domingo Este", "name_en": "None", "is_in_country": "R307828", "is_in_state": "R3422565" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -69.8950411, 18.5140802 ], [ -69.7896408, 18.572482 ], [ -69.7697525, 18.5870386 ], [ -69.7262553, 18.4855727 ], [ -69.7050962, 18.4868081 ], [ -69.7066722, 18.453994 ], [ -69.8884791, 18.4626891 ], [ -69.8745133, 18.5007418 ], [ -69.8950411, 18.5140802 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "W154793990", "name": "Urbanización Real", "name_en": "None", "is_in_country": "R307828", "is_in_state": "R53161" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -69.9773895, 18.442374 ], [ -69.9766676, 18.4441775 ], [ -69.9604277, 18.4459189 ], [ -69.9773895, 18.442374 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "W154794888", "name": "Mirador Sur", "name_en": "None", "is_in_country": "R307828", "is_in_state": "R53161" }, "geometry": null },
+{ "type": "Feature", "properties": { "osm_id": "W154801350", "name": "Los Cacicazgos", "name_en": "None", "is_in_country": "R307828", "is_in_state": "R53161" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -69.9776596, 18.4419246 ], [ -69.9594198, 18.4425307 ], [ -69.9812645, 18.4371053 ], [ -69.9776596, 18.4419246 ] ] ] ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "R3117794", "name": "5000", "name_en": "None", "is_in_country": "R80500", "is_in_state": "R3093825" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 138.6126523, -34.9095685 ], [ 138.624254400000012, -34.9398971 ], [ 138.5830651, -34.9420483 ], [ 138.5773202, -34.9091918 ], [ 138.5797972, -34.912829 ], [ 138.6126523, -34.9095685 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "R3117795", "name": "5006", "name_en": "None", "is_in_country": "R80500", "is_in_state": "R3093825" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 138.5772652, -34.9088691 ], [ 138.6092128, -34.9019751 ], [ 138.6126523, -34.9095685 ], [ 138.5797972, -34.912829 ], [ 138.5773202, -34.9091918 ], [ 138.5772652, -34.9088691 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "R3571091", "name": "Malmsbury", "name_en": "None", "is_in_country": "R80500", "is_in_state": "R3327683" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 144.37329, -37.19558 ], [ 144.36033, -37.19405 ], [ 144.3644, -37.17956 ], [ 144.39952, -37.18607 ], [ 144.37329, -37.19558 ] ] ] ] } }
+]
+}

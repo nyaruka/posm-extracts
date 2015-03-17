@@ -12,12 +12,12 @@ Apologize for the flat structure, these files were made for consumption by other
 Right now filenames correspond to the relation id of the country as known in OSM. You can easily find these using [Open Street Map](http://www.openstreetmap.org/) by searching for a country name, then looking for the country boundary result. Click on it and your URL should be something like ```http://www.openstreetmap.org/relation/114686``` where 114686 is the relation id (in this case for Mexico). That corresponds to the files starting with R (for relation) 114686.
 
 For each country we create six files, all our valid GEOJSON:
-    [id]admin0.json - Full resolution of the country boundary
-    [id]admin0_simplified.json - Simplified country boundary appropriate for use in web browsers
-    [id]admin1.json - Full resolution of the state boundaries (level 1 administrative levels)
-    [id]admin1_simplified.json - Simplified state boundaries
-    [id]admin2.json - Full resolution of the district boundary (level 2 administrative levels)
-    [id]admin2_simplified.json - Simplified district boundaries
+ - ```[id]admin0.json``` - Full resolution of the country boundary
+ - ```[id]admin0_simplified.json``` - Simplified country boundary appropriate for use in web browsers
+ - ```[id]admin1.json``` - Full resolution of the state boundaries (level 1 administrative levels)
+ - ```[id]admin1_simplified.json``` - Simplified state boundaries
+ - ```[id]admin2.json``` - Full resolution of the district boundary (level 2 administrative levels)
+ - ```[id]admin2_simplified.json``` - Simplified district boundaries
 
 For each feature in the GEOJSON we add the following attributes to let you build a parent-child relationship:
  - osm_id: This is id of the source Open Street Map object that this feature was built from
